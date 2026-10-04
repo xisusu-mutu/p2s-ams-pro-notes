@@ -1,0 +1,9 @@
+# 系统生成的文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+~$*
+*.tmp
+*.swp
